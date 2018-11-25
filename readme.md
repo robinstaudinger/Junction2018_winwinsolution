@@ -8,7 +8,7 @@ The source files for SAP0 are in the SAP0 folder.
 
 
 #### Run SAP0:
-cd SAP0
+cd SAP0 
 python answer_phone.py
 
 in different terminal tab but same folder
