@@ -4,10 +4,10 @@ Please introduce yourself to SAP0 through the presentation.
 
 The source files for SAP0 are in the SAP0 folder.
 
-However, to call SAP0 you will have to set up a Twilio and Google Cloud account and provide the respective API keys.
+### To call SAP0 you will have to set up a Twilio and Google Cloud account and provide the respective API keys.
 
 
-Run SAP0:
+#### Run SAP0:
 cd SAP0
 python answer_phone.py
 
