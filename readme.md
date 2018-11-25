@@ -8,12 +8,12 @@ The source files for SAP0 are in the SAP0 folder.
 
 
 #### Run SAP0:
-cd SAP0 
-python answer_phone.py
+* cd SAP0 
+* python answer_phone.py
 
-in different terminal tab but same folder
-./ngrok http 5000
+* in different terminal tab but same folder
+* ./ngrok http 5000
 
-copy ngrok link to your Twilio console under your phonenumber "A call comes in" https://www.twilio.com/console/phone-numbers/PNa09a87947b89f619e2e91fc449cb46c0
+* copy ngrok link to your Twilio console under your phonenumber "A call comes in" https://www.twilio.com/console/phone-numbers/PNa09a87947b89f619e2e91fc449cb46c0
 
-call Twilio number
+* call Twilio number
