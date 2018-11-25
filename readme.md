@@ -17,3 +17,14 @@ The source files for SAP0 are in the SAP0 folder.
 * copy ngrok link to your Twilio console under your phonenumber "A call comes in" https://www.twilio.com/console/phone-numbers/PNa09a87947b89f619e2e91fc449cb46c0
 
 * call Twilio number
+
+*Requirements:
+
+* Python
+* Flask
+* Twilio
+* nltk
+* google-cloud-speech
+* numpy
+* sklearn
+* ngrok
